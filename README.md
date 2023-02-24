@@ -1,4 +1,4 @@
-# CLIP#XX - [CLIP SHORT NAME] <img style="float: right;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
+# CLIP# sea ice diamond<img style="float: right;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
 <hr>
 
 ## TrevaLabs
