@@ -25,13 +25,18 @@ To prepare the data, follow these steps:
 - x & y columns were populated with value "1" and color column was populated with lables "a" and "b" for the respective two years
 
 ## Creating Visualizations
-The visualisation was implemented using Datawrapper. Specifically, a scatter plot was chosen that uses the identical x & y columns to position two objects on the same point.  
+The visualisation can be implemented using Datawrapper or similar tools. Specifically, a scatter plot was chosen that uses the identical x & y columns to position two objects on the same point. Alternatively a notebook is provided that creates an graphic in python altair to be used in vector graphics software.
 
-To create a new visualization, follow these steps:
+To create a new datawrapper visualization, follow these steps:
 - Open Datawrapper and create a new chart of the type "scatter plot".
 - Load the csv file from the previous process into datawrapper
 - Chose x and y columns for position, area_m2 column for size and color column for color 
 - Adjust colours and transparencies and add further anotations
+
+To create a new altair visualization, follow these steps:
+- Open the python notebook provided in the scripts/dataviz folder either in your local environment or in hosted environments like Google Colab.
+- Provide the path to the csv file from the previous process
+- run the notebook and save the graphic from the 3-dot menue in your desired file format
 
 ## CREDITS & LICENSE
 - Idea by: [UBILABS](https://ubilabs.com/)
