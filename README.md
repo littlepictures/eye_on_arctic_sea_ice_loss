@@ -1,9 +1,4 @@
-# CLIP - sea ice diamond<img style="float: right;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
-<hr>
-
-## TrevaLabs
- 
-[TrevaLabs](https://www.TrevaLabs.com) is a collective of climate data visualisation creatives in Europe, brought together by the desire to make a big impact with little pictures. Its mission is to rapidly create little pictures of climate for maximal human impact, and the vision is to reach every European by the end of decade with a little picture on Climate.
+# CLIP - sea ice diamond
 
 ## Background on this CLIP
 The CLIP describes the decline of sea ice in the Arctic between 1980 and 2020. There are already various graphs and visualisations that impressively show the decline of the ice (in volume and also as area). The idea behind this CLIP is the radical simplification of the sea ice loss based on just two different sized shapes.
