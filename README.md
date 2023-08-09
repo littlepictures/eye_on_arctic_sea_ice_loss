@@ -1,7 +1,7 @@
 # little picture - global mean sea level
 
 ## Background on this little picture
-a decline? Arctic sea ice in 1980 compared to 2016
+_a decline? Arctic sea ice in 1980 compared to 2016_
 
 Satellite observations have been instrumental in monitoring Arctic sea ice extent and thickness, and its changes over time.
 From space sensors, can track seasonal and long-term trends. Arctic ice cover is shown to shrinking at an alarming rate, leading to concerns about its impact on the regional and global climate system. By continuously monitoring Arctic sea ice from space, researchers can better understand the dynamics of this critical component of our planet&#39;s climate system and make informed decisions to address the challenges posed by its decline. This data-driven graphic represents the area of arctic sea ice observed by satellites in 1980 compared to 2016.
