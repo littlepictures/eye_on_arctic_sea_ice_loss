@@ -1,7 +1,12 @@
-# CLIP - sea ice diamond
+# little picture - global mean sea level
 
-## Background on this CLIP
-The CLIP describes the decline of sea ice in the Arctic between 1980 and 2020. There are already various graphs and visualisations that impressively show the decline of the ice (in volume and also as area). The idea behind this CLIP is the radical simplification of the sea ice loss based on just two different sized shapes.
+## Background on this little picture
+a decline? Arctic sea ice in 1980 compared to 2016
+
+Satellite observations have been instrumental in monitoring Arctic sea ice extent and thickness, and its changes over time.
+From space sensors, can track seasonal and long-term trends. Arctic ice cover is shown to shrinking at an alarming rate, leading to concerns about its impact on the regional and global climate system. By continuously monitoring Arctic sea ice from space, researchers can better understand the dynamics of this critical component of our planet&#39;s climate system and make informed decisions to address the challenges posed by its decline. This data-driven graphic represents the area of arctic sea ice observed by satellites in 1980 compared to 2016.
+
+https://climate.esa.int/en/little-pictures-gallery/An-eye-on-sea-ice-loss/
 
 ## Data Sources
 
