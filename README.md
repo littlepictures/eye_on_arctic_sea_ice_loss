@@ -1,4 +1,4 @@
-# little picture - global mean sea level
+# little picture - arctic sea ice loss
 
 ## Background on this little picture
 _a decline? Arctic sea ice in 1980 compared to 2016_
