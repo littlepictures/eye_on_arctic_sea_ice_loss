@@ -24,7 +24,7 @@ To prepare the data, follow these steps:
 - CSV was created using standard editor with columns "x","y","date", "area_m2", "color"
 - x & y columns were populated with value "1" and color column was populated with lables "a" and "b" for the respective two years
 
-## Creating Visualizations
+## Creating Visualisations
 The visualisation can be implemented using Datawrapper or similar tools. Specifically, a scatter plot was chosen that uses the identical x & y columns to position two objects on the same point. Alternatively a notebook is provided that creates an graphic in python altair to be used in vector graphics software.
 
 To create a new datawrapper visualization, follow these steps:
