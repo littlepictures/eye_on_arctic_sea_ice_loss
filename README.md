@@ -41,6 +41,6 @@ To create a new altair visualization, follow these steps:
 ## CREDITS & LICENSE
 - Idea by: [UBILABS](https://ubilabs.com/)
 - Processing Documentation by: [Ubilabs](https://ubilabs.com/)
-- Visualization by: [UBILABS](https://ubilabs.com/)
+- Visualisation by: [UBILABS](https://ubilabs.com/)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
